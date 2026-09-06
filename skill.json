@@ -1,0 +1,12 @@
+{
+  "name": "genpark-crm-bidirectional-dedup-sync-resolver-skill",
+  "version": "1.0.0",
+  "description": "Deterministic CRM deduplication and bidirectional conflict resolution engine for contact and account synchronization.",
+  "category": "Sales Intelligence & Lead Enrichment",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-crm-bidirectional-dedup-sync-resolver-skill",
+  "verified": true,
+  "stars": 8
+}
